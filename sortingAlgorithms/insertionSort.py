@@ -1,4 +1,7 @@
 # insertion sort algorithm
+# worst case O(N^2) complexity
+# best case O(N) complexity (when array is sorted)
+
 # algorithm divides array into 2 subsets.
 # sorted subset consists of one element initially.
 # each iteration removes element from unsorted array and places into sorted.
